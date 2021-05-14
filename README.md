@@ -22,3 +22,18 @@ Code tested on following environments, other version should also work:
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
+
+# Answer for Question
+* Q1: Training accuracy: 97.35%
+    Testing accuracy: 88.70%
+* Q2: Training accuracy: 81.60%
+    Testing accuracy: 81.90%
+* Q3: Training accuracy: 97.68%
+    Testing accuracy: 86.20%
+* Q4: Training accuracy: 96.48%
+    Testing accuracy: 87.40%
+    (C = 0.3)
+###Chose Keras to solve:
+* Q6: Training loss: 0.0137, Training accuracy: 1.00%
+
+     Testing loss: 0.0346, Testing accuracy: 0.99%
