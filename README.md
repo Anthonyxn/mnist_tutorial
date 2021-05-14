@@ -35,5 +35,5 @@ Please read [HEAR](EE369.md).
     (C = 0.3)
 ###Chose Keras to solve:
 * Q6: Training loss: 0.0137, Training accuracy: 1.00%
-
+ 
      Testing loss: 0.0346, Testing accuracy: 0.99%
